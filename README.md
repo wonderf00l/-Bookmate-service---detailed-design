@@ -162,7 +162,7 @@
 
 Поскольку значение RTT находится в допустимых пределах([100 мс](https://edgecenter.ru/blog/what-latency-is-and-how-to-reduce-it)), утверждаем выбранный список городов.
 
-![DC_geo.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/fae6431d-28c4-4d53-b319-9c95b8a98a26/618f96f8-84f8-4da8-a666-ce0a949084b0/DC_geo.png)
+![DC_geo](assets/DC_geo.png)
 
 **Глобальная балансировка**
 
