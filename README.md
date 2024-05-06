@@ -315,6 +315,8 @@
 
 ![project_scheme](assets/project_scheme.png)
 
+Источник: https://app.diagrams.net/?src=about#G1XazlCFx3wZu0mIYwIjaAjq5eQcxyVblm#%7B%22pageId%22%3A%22tI-Vhxf5rJKJJLltfIqH%22%7D
+
 ## 9. Обеспечение надежности <a name="9_part"></a>
 ### Отказоустойчивая архитектура
 
