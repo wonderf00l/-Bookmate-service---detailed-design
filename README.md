@@ -328,7 +328,7 @@
 
 ## 8. Схема проекта <a name="8_part"></a>
 
-![project_schema](assets/project_schemE.png)
+![project_schema](assets/project_scheme.png)
 
 Источник: https://app.diagrams.net/?src=about#G1XazlCFx3wZu0mIYwIjaAjq5eQcxyVblm#%7B%22pageId%22%3A%22tI-Vhxf5rJKJJLltfIqH%22%7D
 
